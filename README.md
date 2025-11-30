@@ -31,7 +31,7 @@ A fast and elegant internet speed testing application built with React, Vite, an
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/flash.git
+git clone https://github.com/Shivshreyas/SpeedTest
 cd flash
 ```
 
